@@ -15,6 +15,7 @@ namespace Ejercicio3
             centigrado = Convert.ToDouble(entrada);
             faradar = (1.8 * centigrado ) + 32;
             Console.Write("\nEste Es El Grados Fahrenheit Otenido:" + faradar);
+            //hola
         }
     }
 }
